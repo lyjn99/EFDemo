@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore", "EFCore\EFCore.csproj", "{FDAC3069-19A6-487C-9D3F-57F7DE0E26FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToMany", "ManyToMany\ManyToMany.csproj", "{11FFC445-9175-4889-B69C-5B5E3F2549CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FDAC3069-19A6-487C-9D3F-57F7DE0E26FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDAC3069-19A6-487C-9D3F-57F7DE0E26FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDAC3069-19A6-487C-9D3F-57F7DE0E26FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FFC445-9175-4889-B69C-5B5E3F2549CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FFC445-9175-4889-B69C-5B5E3F2549CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FFC445-9175-4889-B69C-5B5E3F2549CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FFC445-9175-4889-B69C-5B5E3F2549CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
